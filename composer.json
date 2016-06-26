@@ -1,0 +1,14 @@
+{
+    "name": "yuta/array",
+    "authors": [
+        {
+            "name": "Yuta Fukunishi",
+            "email": "yuta.fukunishi.2924@gmail.com"
+        }
+    ],
+    "require": {
+        "anahkiasen/underscore-php" : "dev-master",
+        "nikic/iter": "^1.3",
+        "ginq/ginq": "~0.2.3"
+    }
+}
